@@ -7,8 +7,7 @@ technologies: n/a
 # Macadamia Nut Cracker Project - ENGRD 2020 Statics
 **Skills used: Equilibrium, Solving Mechanisms, Ergonomics and functional requirements, Research**
 
-![<Macadamia Nuts>:](/assets/images/macadamia-nuts.png)
-<img src="/assets/images/macadamia-nuts.png" width="50%" height="30%">
+<img src="/assets/images/macadamia-nuts.png" width="50%" height="50%">
 
 ## Find:
 Design problem: Imagine you have a macadamia nut that you want to crack open by hand
