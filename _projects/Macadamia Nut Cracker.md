@@ -5,6 +5,7 @@ description: ENGRD 2020 Statics Project
 technologies: n/a
 ---
 # Macadamia Nut Cracker Project - ENGRD 2020 Statics
+**Skills used: Equilibrium, Solving Mechanisms, Ergonomics and functional requirements, Research**
 
 ## Find:
 Design problem: Imagine you have a macadamia nut that you want to crack open by hand
