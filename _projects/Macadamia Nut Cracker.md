@@ -7,6 +7,8 @@ technologies: n/a
 # Macadamia Nut Cracker Project - ENGRD 2020 Statics
 **Skills used: Equilibrium, Solving Mechanisms, Ergonomics and functional requirements, Research**
 
+![<Macadamia Nuts>:](/assets/images/macadamia-nuts.png)
+
 ## Find:
 Design problem: Imagine you have a macadamia nut that you want to crack open by hand
 using a simple lever nut cracker. Design a nut cracker with appropriate dimensions to successfully do this.
@@ -40,3 +42,6 @@ I came to the total arm length of 501.46mm, with the nut centered at 79.06mm fro
 
 ## Discussion
  This nutcracker is quite large, but as macadamia nuts require several times the load of other nuts, as seen in the paper by Schrauf et al., it is reasonable to expect a similar increase in dimensions from regular nutcrackers. It may be made more efficient by adding a more complex lever mechanism or using actuators, as suggested by the second part of the problem.
+
+---
+Image credits: https://www.ebay.com/itm/285448116474
