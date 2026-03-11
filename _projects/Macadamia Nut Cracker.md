@@ -8,6 +8,7 @@ technologies: n/a
 **Skills used: Equilibrium, Solving Mechanisms, Ergonomics and functional requirements, Research**
 
 ![<Macadamia Nuts>:](/assets/images/macadamia-nuts.png)
+<img src="/assets/images/macadamia-nuts.png" width="50%" height="30%">
 
 ## Find:
 Design problem: Imagine you have a macadamia nut that you want to crack open by hand
