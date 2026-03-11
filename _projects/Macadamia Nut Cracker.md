@@ -3,9 +3,6 @@ layout: project
 title: Macadamia Nut Cracker
 description: ENGRD 2020 Statics Project
 technologies: n/a
-image: /assets/images/macadamia.png
-image: /assets/images/calculations.png
-image: /assets/images/lever-diagram.png
 ---
 
 Find: Design problem: Imagine you have a macadamia nut that you want to crack open by hand
