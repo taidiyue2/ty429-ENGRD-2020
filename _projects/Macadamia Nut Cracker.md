@@ -41,7 +41,7 @@ I came to the total arm length of 501.46mm, with the nut centered at 79.06mm fro
 ![Final diagram:](/assets/images/macadamia.png)
 
 ## Discussion
- This nutcracker is quite large, but as macadamia nuts require several times the load of other nuts, as seen in the paper by Schrauf et al., it is reasonable to expect a similar increase in dimensions from regular nutcrackers. It may be made more efficient by adding a more complex lever mechanism or using actuators, as suggested by the second part of the problem.
+ This nutcracker is quite large, but as macadamia nuts require several times the load of other nuts, as seen in the paper by Schrauf et al., it is reasonable to expect a similar increase in dimensions from regular nutcrackers. It may be made more efficient by adding a more complex lever mechanism or using actuators, as suggested by the second part of the problem. If actuators were to be used, they would have to be able to reach the 77lb grip strength.
 
 ---
 Image credits: https://www.ebay.com/itm/285448116474
